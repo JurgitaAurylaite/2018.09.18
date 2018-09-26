@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://www.travisheightselementary.com/wp-content/uploads/2017/03/RedBAckground.jpg")
+}
+th {background-color:green;
+    color: white;
+    text-align: center;
+
+
+
+
+
+}
+.white {
+    background-color: white;
+    color: blue;
+}
+table {
+    width: 20%;
+    margin: auto;
+    color: grey;
+    border: 10px;
+    border-collapse: collapse;
+
+
+}
+
+th, td {
+    padding: 20px 10px;
+    border-bottom: 3px solid gray;
+    border-right: 1px solid gray;
+
+}

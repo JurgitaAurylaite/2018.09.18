@@ -1,0 +1,15 @@
+.borders {
+    background-color: green;
+    color: white;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 550px;
+
+
+
+    border: 10px solid black;
+    outline: 10px solid blue;
+}
